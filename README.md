@@ -2,5 +2,12 @@
 
 I. Introduction:
   1. Purpose.
-In this project, I will act as one analytic banker in one analytic team to collect data from Kaggle about Nashville (the capital of the U.S. state of Tennessee), then cleaning, organizing, retrieving, and analyzing the data, trends, thus supporting the manager in making decisions about Mortgage Lending, Risk Assessment, Asset Valuation, Customer Behavior,...
-  2. 
+  In this project, I employ the SQL program to effectively cleanse and structure data, facilitating seamless analysis of trends and numerical information.
+  2. Data.
+  I utilize the Nashville Housing Data sourced from Kaggle for my analysis. This dataset originates from real-world data in Nashville, a state within the United States.
+  3. Program.
+  The SQL
+
+II. Process:
+
+     
