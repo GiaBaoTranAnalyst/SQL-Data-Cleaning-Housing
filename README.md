@@ -34,4 +34,6 @@ II. Process:
      
   ![image](https://github.com/GiaBaoTranAnalyst/SQL-Data-Cleaning-Housing/assets/132706047/0d56d85e-9ebe-4508-a4d3-14ac591db62c)
 
+III. Result:
 
+The project is organized and clear enough to go further explorations, all important criteria are separated and clear to explore. 
