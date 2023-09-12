@@ -26,5 +26,12 @@ II. Process:
 
   ![image](https://github.com/GiaBaoTranAnalyst/SQL-Data-Cleaning-Housing/assets/132706047/15289ade-7d98-42b9-9e68-b6d580e6cb10)
 
-5. 
+5. Change the values 'N' and 'Y' to 'No' and 'Yes' respectively in the SoldAsVacent column.
+
+  ![image](https://github.com/GiaBaoTranAnalyst/SQL-Data-Cleaning-Housing/assets/132706047/8472d358-e97d-4eb8-8ea6-6d3ee6778367)
+
+6. Delete duplicate rows by using the Partition by and Over - with all utilities
      
+  ![image](https://github.com/GiaBaoTranAnalyst/SQL-Data-Cleaning-Housing/assets/132706047/0d56d85e-9ebe-4508-a4d3-14ac591db62c)
+
+
